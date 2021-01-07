@@ -1,1 +1,1 @@
-![](https://cotearthur.github.io/banner.png)
+![](https://cotearthur.github.io/profile/banner.png)
